@@ -1,0 +1,30 @@
+form{
+  background-color: yellow;
+  margin-left: 30%;
+  width: 500px;
+  height: 600px;
+}
+
+h1{
+  text-align: center;
+  color: black;
+  text-decoration: underline;
+  margin-bottom: 10%;
+}
+
+.text{
+  width: 450px;
+  height: 40px;
+  margin: 20px;
+  background-color: white;
+  color: black;
+  font-size: 30px;
+}
+
+.submit{
+  background-color: rgb(84, 90, 172);
+  width: 120px;
+  height: 50px;
+  font-size: 30px;
+  margin-left: 33%;
+}
